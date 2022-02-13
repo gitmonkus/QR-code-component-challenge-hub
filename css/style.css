@@ -44,6 +44,7 @@ p {
 .card {
   text-align: center;
   width: 320px;
+  height: 497px;
   background: var(--White);
   box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
   border-radius: 20px;
