@@ -53,6 +53,7 @@ p {
 
 .card img {
   border-radius: 10px;
+  margin-bottom: 24px;
 }
 
 .card h1,
@@ -65,6 +66,8 @@ p {
   font-weight: 700;
   line-height: 28px;
   color: var(--Dark-navy);
+  margin-top: 0;
+  margin-bottom: 16px;
 }
 
 .card p {
@@ -73,6 +76,7 @@ p {
   color: var(--Grey);
   font-weight: 400;
   margin-bottom: 21px;
+  margin-top: 0;
 }
 
 /* ATTRIBUTION */
