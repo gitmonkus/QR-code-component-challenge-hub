@@ -60,7 +60,7 @@ img {
 .card h1 {
   font-size: 22px;
   font-weight: 700;
-  line-height: 28px;
+  line-height: 27.72px;
   color: var(--Dark-navy);
   margin-top: 0;
   margin-bottom: 16px;
@@ -68,8 +68,8 @@ img {
 
 .card p {
   font-size: 15px;
-  line-height: 19px;
-  letter-spacing: 0.1875px;
+  line-height: 18.9px;
+  letter-spacing: 0.19px;
   color: var(--Grey);
   font-weight: 400;
   margin-bottom: 24px;
